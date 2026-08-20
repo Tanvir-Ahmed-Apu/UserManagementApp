@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Waj9P4WrHC4=",
+  "success": true,
+  "projectFilePath": "/home/tanvir/coding/Itransition Project/UserManagementApp/UserManagement/UserManagement.csproj",
+  "expectedPackageFiles": [
+    "/home/tanvir/.nuget/packages/microsoft.aspnetcore.app.internal.assets/10.0.11/microsoft.aspnetcore.app.internal.assets.10.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}
